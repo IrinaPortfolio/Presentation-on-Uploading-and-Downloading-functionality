@@ -1,0 +1,20 @@
+User Research Insights
+Research Methods:
+
+Surveys:
+We conducted surveys with nine users who have low to medium computer literacy to gather quantitative data on their experiences and challenges. The survey results revealed the following insights:
+Ease of Use: 67% of respondents found the current upload process confusing, indicating a need for clearer instructions and guidance.
+File Format Preferences: 78% preferred uploading files in common formats like CSV and PDF, while 22% expressed a desire for support for less common formats like XML.
+Time Spent: On average, users reported spending 15 minutes to upload files, with 44% stating that they often encountered errors during the process.
+
+Interviews:
+One-on-one interviews were conducted to gain qualitative insights into user behaviors and preferences regarding uploading and downloading data. Key findings from the interviews included:
+Pain Points: Users frequently mentioned frustration with the lack of feedback during uploads, stating they were unsure if their files were being processed correctly.
+Desired Features: Many users expressed a desire for a drag-and-drop feature, as they found it more intuitive than traditional file selection methods.
+Support Needs: Interviewees indicated a need for more accessible help resources, such as video tutorials or step-by-step guides, to assist them in navigating the platform.
+
+Usability Testing:
+Usability testing sessions were facilitated where participants completed tasks while we observed their interactions with the interface. The results highlighted several areas for improvement:
+Task Completion Rate: Participants successfully completed the upload task 60% of the time on their first attempt, with common errors including selecting incorrect file types and not following prompts.
+Time on Task: The average time taken to complete the upload task was 12 minutes, with some users struggling significantly due to unclear instructions.
+User Satisfaction: Post-task surveys indicated that only 50% of participants felt satisfied with their experience, citing confusion and frustration as major factors.

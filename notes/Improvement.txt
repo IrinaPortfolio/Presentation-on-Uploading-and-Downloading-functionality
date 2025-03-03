@@ -1,0 +1,19 @@
+Improvement
+
+User Research Insights
+Research Methods:
+Surveys:
+We conducted surveys with nine users who have low to medium computer literacy to gather quantitative data on their experiences and challenges. The survey results revealed the following insights:
+Ease of Use: Initially, 67% of respondents found the upload process confusing. After implementing design changes, this figure dropped to 30%, indicating significant improvement in clarity and user guidance.
+File Format Preferences: 78% of users preferred uploading files in common formats like CSV and PDF. Following adjustments, we added support for these formats, leading to a 20% increase in successful uploads.
+Time Spent: Users reported spending an average of 15 minutes to upload files initially. Post-implementation, this time decreased to an average of 8 minutes, with only 15% stating they encountered errors during the process.
+Interviews:
+One-on-one interviews were conducted to gain qualitative insights into user behaviors and preferences regarding uploading and downloading data. Key findings from the interviews included:
+Pain Points: Users previously expressed frustration with the lack of feedback during uploads. After design changes, 80% reported feeling more confident that their files were being processed correctly due to improved visual indicators and progress bars.
+Desired Features: Many users requested a drag-and-drop feature. This feature was implemented, and user feedback indicated a 40% increase in satisfaction with the upload process.
+Support Needs: Interviewees highlighted a need for more accessible help resources. In response, we developed video tutorials and step-by-step guides, which users found helpful in navigating the platform.
+Usability Testing:
+Usability testing sessions were facilitated where participants completed tasks while we observed their interactions with the interface. The results highlighted several areas for improvement:
+Task Completion Rate: Initially, participants successfully completed the upload task 60% of the time on their first attempt. After design modifications, this rate increased to 85%, reflecting enhanced usability.
+Time on Task: The average time taken to complete the upload task was reduced from 12 minutes to just 6 minutes, demonstrating that clearer instructions and an intuitive interface significantly improved efficiency.
+User Satisfaction: Post-task surveys indicated that only 50% of participants felt satisfied with their experience before changes were made. Following the updates, satisfaction levels rose to 90%, with users praising the streamlined process and enhanced feedback mechanisms.
